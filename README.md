@@ -17,4 +17,4 @@ Coffee Roast and Size Analysis: Analyze customer preferences regarding coffee ro
 
 Loyalty Card Usage: Explore the impact of loyalty card programs on customer purchasing habits, highlighting the importance of customer loyalty initiatives.
 
-Interesting note! Each visualization serves as a dynamic filter, empowering users to customize their analysis based on specific criteria of interest. This interactive feature enhances data analysis through engaging visualizations.
+**Interesting note!** Each visualization serves as a dynamic filter, empowering users to customize their analysis based on specific criteria of interest. This interactive feature enhances data analysis through engaging visualizations.
