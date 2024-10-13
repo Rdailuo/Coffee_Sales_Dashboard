@@ -19,4 +19,4 @@ Loyalty Card Usage: Explore the impact of loyalty card programs on customer purc
 
 **Interesting note!** Each visualization serves as a dynamic filter, empowering users to customize their analysis based on specific criteria of interest. This interactive feature enhances data analysis through engaging visualizations.
 
-Mentor and credits: Mo Chen
+Mentor and credit: Mo Chen
